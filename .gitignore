@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+timeseries-vue/node_modules/*
+timeseries-vue/dist/*
+timeseries-vue/.env
+timeseries-vue/.env.local
+timeseries-vue/.env.development.local
+timeseries-vue/.env.test.local
+timeseries-vue/.env.production.local
+timeseries-vue/.env.local
+timeseries-vue/.env.development
+timeseries-vue/.env.test
+timeseries-vue/.env.production
+timeseries-vue/.vscode/*
