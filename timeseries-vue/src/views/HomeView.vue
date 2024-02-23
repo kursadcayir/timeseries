@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import LineChart from '@/components/LineChart.vue';
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  
+    <div id="charWrapper">
+      <LineChart/>
+    </div>
+
 </template>
